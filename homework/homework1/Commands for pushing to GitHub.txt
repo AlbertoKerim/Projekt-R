@@ -2,3 +2,4 @@ git clone https://github.com/AlbertoKerim/Projekt-R
 git add .
 git commit -m "homework 1 added"
 git push
+
